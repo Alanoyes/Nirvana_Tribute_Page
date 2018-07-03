@@ -1,0 +1,64 @@
+html, body {
+	text-align: center;
+	color: white;
+}
+
+#background {
+	text-align: center;
+}
+
+#main {
+	padding: 15px;
+	background: #222222;
+	width: 100%;
+	height: auto;
+}
+
+
+img{
+  margin: 20px;
+  width: 100%;
+  height: auto;
+  max-width: 100% ;
+  position: relative;
+  margin: auto;
+  display: block;
+}
+
+h1 {
+	font-size: 3.2em;	
+}
+
+ul {
+	list-style-position: inside;
+	margin: auto;
+	text-align: left;
+	max-width: 400px;
+	font-size: .9em;
+}
+
+
+li {
+	padding-bottom: 10px;
+}
+
+
+h1, h2, h3, h4, h5 {
+	color: #f8b822;
+}
+
+#logo-top {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 150px;
+	height: auto;
+}
+
+.lead {
+	font-size: 1em;
+}
+
+a {
+	color: #f8b822;
+}
